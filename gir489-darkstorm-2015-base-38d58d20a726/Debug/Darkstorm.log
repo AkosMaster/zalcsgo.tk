@@ -1,0 +1,3 @@
+﻿  Panels.cpp
+CDrawManager.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Darkstorm.vcxproj -> C:\Users\Admin\Desktop\zkh\gir489-darkstorm-2015-base-38d58d20a726\Debug\Darkstorm Base.dll
